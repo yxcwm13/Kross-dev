@@ -1,4 +1,3 @@
-@@ -1,22 +1,16 @@
 <h1 align="center">Oh Hi 👋, I'm Cem</h1>
 <h3 align="center">A lazy developer from Turkey:3</h3>
 <p align="center"><img src="https://cdn.discordapp.com/banners/758758497138507786/ffcaa91d44b6e7681914ea89231350a9.png?size=1536" > </p>
