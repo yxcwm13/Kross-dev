@@ -25,3 +25,4 @@ About Me: https://ııcwmxq.com/about
 
 ![Metrics](https://metrics.lecoq.io/Kross-dev?template=classic&people=1&achievements=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
+
