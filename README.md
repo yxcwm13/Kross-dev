@@ -1,6 +1,6 @@
 <h1 align="center">Oh Hi 👋, I'm Cem</h1>
 <h3 align="center">A lazy developer from Turkey:3</h3>
-<p align="center"><img src="https://cdn.discordapp.com/banners/924373984357785661/77c2444818614bb4ea6aba9fb60ff531.png?size=1536" > </p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/956186779432648775/1016953479211798558/resim_2022-09-07_090829929-removebg-preview-removebg-preview.png" > </p>
 <h1 align="center">Hey, I'm Cem.</h1>
 <h3 align="center">A cool person that does stuff™.</h3>
 
